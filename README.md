@@ -1,7 +1,5 @@
 # Saturn
 
-## Recommended Project Workflow
-
 *This is the recommended workflow process for making changes throughout a project's lifecycle.*
 
 ### Follow these steps
