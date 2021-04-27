@@ -1,5 +1,19 @@
 # Saturn
 
+
+##**Licensing**
+
+###Licensing allows the public to use, modify and share the base repository/code.
+
+###*Their are 2 types of Licensing*:
+- Permissive
+No conditions for the downstream license 
+
+
+- Strong copyleft
+Uses the same license downstream
+
+
 *This is the recommended workflow process for making changes throughout a project's lifecycle.*
 
 ### Follow these steps
@@ -14,3 +28,4 @@
 8. Switch back to develop branch
 9. Once no more changes are required, merge those changes into develop branch
 10. Delete feature branch if necessary
+
