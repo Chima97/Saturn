@@ -16,3 +16,9 @@ it branches are effectively a pointer to a snapshot of your changes. When you wa
 	Deletes a branch
 	
 5. git --delete origin <branch_name>
+	Deletes the branch from develop
+	
+Once you have made your branch you must push it for it to be shown on your repository.
+$ git push
+
+If you have created files within your branch, you will need to commit these files before you push your branch
