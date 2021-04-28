@@ -11,11 +11,11 @@ Then press the green button and press "code" then copy the link on to your local
 After that go gitbash then clone the new repository to your system by going 'git clone [link]'
 then you will have the repository on your system.
 
-##**Licensing**
+## Licensing
 
-###Licensing allows the public to use, modify and share the base repository/code.
+### Licensing allows the public to use, modify and share the base repository/code.
 
-###*Their are 2 types of Licensing*:
+### Their are 2 types of Licensing*:
 - Permissive
 No conditions for the downstream license 
 
